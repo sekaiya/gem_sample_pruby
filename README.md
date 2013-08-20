@@ -1,6 +1,6 @@
 # GemSamplePruby
 
-TODO: Write a gem description
+omikuji します
 
 ## Installation
 
