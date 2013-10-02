@@ -1,5 +1,15 @@
 # GemSamplePruby
 
+Hello. I am Sekai Kobayashi.
+
+Are you studing "Perfect Ruby" which published by GijyutuHyoronSha ?
+
+the sample gem's name has already been used by me.
+
+Please use another gem name.
+
+
+
 omikuji します
 
 ## Installation
