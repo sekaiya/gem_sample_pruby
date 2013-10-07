@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = GemSamplePruby::VERSION
   spec.authors       = ["sekaiya"]
   spec.email         = ["sekai.kobayashi@gmail.com"]
-  spec.description   = "omikuji"
+  spec.description   = "Are you studing "Perfect Ruby" which published by GijyutuHyoronSha ? the sample gem's name has already been used by me. Please use another gem name."
   spec.summary       = "lets omikuji !"
   spec.homepage      = ""
   spec.license       = "MIT"
